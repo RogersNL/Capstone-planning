@@ -37,7 +37,7 @@ For any questions or support details, please email:
 * Create a skeleton for the components in a static program.
 
 **Component Structure:**
-![Alt text](URL HERE)
+![Alt text](src/assets/images/online-store-structure.png)
 
 ## MIT License
 
