@@ -11,6 +11,7 @@
 
 A site that holds a static version of the online store concept.
 
+View the static version here: https://github.com/RogersNL/Capstone-Static.git
 
 ## Setup
 
