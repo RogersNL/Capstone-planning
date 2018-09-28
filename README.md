@@ -37,8 +37,18 @@ For any questions or support details, please email:
 * Outline the basic structure of the project and give a visual representation.
 * Create a skeleton for the components in a static program.
 
+**User Stories**
+* As a user I want to be able to browse through all the products in the store.
+* As a user I want to be able to create an account and sign in.
+* As a user I want to be able to select an item and put it into a cart.
+* As a user I want to be able to view my past orders.
+* As a user I want to be able to edit my account information.
+* As a user I want to be able to search for products in the store.
+* As a user I want to be able to filter items I'm browsing.
+
+
 **Component Structure:**
-![Alt text](src/assets/images/online-store-structure.png)
+![Alt text](src/assets/images/TCGStore.png)
 
 ## MIT License
 
